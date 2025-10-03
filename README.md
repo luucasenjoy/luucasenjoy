@@ -10,7 +10,7 @@ Transformo dados em insights por meio de análises estatísticas, machine learni
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luucasenjoy&repo=projeto-final.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luucasenjoy&repo=projeto-2.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
