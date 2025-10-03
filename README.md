@@ -15,7 +15,7 @@ Transformo dados em insights por meio de análises estatísticas, machine learni
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogithub1406&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luucasenjoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
